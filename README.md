@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <p>
   
 - 🔭 I’m currently working on a Forum for Programmers
-- 🌱 I’m currently learning Developing Robust Android Applications
+- 🌱 I’m currently learning to develop robust Android Applications
 - 👯 I’m looking to collaborate on building useful Android Apps
 - 💬 Ask me about Android, Java, Kotlin and Python
 - 📫 How to reach me: Contact me using LinkedIn and My Blog
