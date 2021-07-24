@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-#  Hi there! 👋 This is Srivathsan Venkateswaran 👨‍💻
+#  Hi there! 👋 This is Srivathsan 👨‍💻
 
 <p>
 <a href="https://srivathsan.hashnode.dev/">
