@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-#  Hi there! 👋 This is Srivathsan Venkateswaran <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+#  Hi there! 👋 This is Srivathsan Venkateswaran 👨‍💻
 
 <p>
 <a href="https://srivathsan.hashnode.dev/">
