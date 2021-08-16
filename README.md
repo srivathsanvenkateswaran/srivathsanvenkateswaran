@@ -36,6 +36,10 @@ Here are some ideas to get you started:
 <img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
 </a>
   
+ <a href="https://leetcode.com/Srivathsan_Venkateswaran/" target="blank">
+<img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+</a>
+  
 <a href="https://in.pinterest.com/srivathsanvenkateswaran/_created/" target="blank">
 <img align="center" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/>
 </a>  
