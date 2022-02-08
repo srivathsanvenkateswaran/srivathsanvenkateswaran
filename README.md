@@ -66,7 +66,10 @@ Here are some ideas to get you started:
   <img align="center" alt="srivathsanvenkateswaran | Gmail" width="32px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://srivathsan.hashnode.dev">
-<img align="center" alt="srivathsanvenkateswaran | Blog" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
+<img align="center" alt="srivathsanvenkateswaran | Blog" width="30px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
+</a> &nbsp;&nbsp;
+<a href="https://opensea.io/srivathsanvenkateswaran">
+<img align="center" alt="srivathsanvenkateswaran | Blog" width="30px" src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png" />
 </a> 
 <p>
 
