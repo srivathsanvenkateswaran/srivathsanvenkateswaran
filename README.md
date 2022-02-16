@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 </a>
 <p>
   
-- 🔭 I’m currently working on improving my coding skills
-- 🌱 I’m currently learning to develop robust Android Applications
-- 👯 I’m looking to collaborate on building useful Android Apps
-- 💬 Ask me about Android, Java, Kotlin and Python
+- 🔭 Grokking bitcoin one concept at a time
+- 🌱 Learning to develop robust Android Applications
+- 👯 Looking to collaborate on building useful Android Apps
+- 💬 Ask me about Android, Java, Kotlin, Python, Blockchain and Bitcoin Protocol.
 - 📫 How to reach me: Contact me using LinkedIn and My Blog
 
 ### My Online Presence 👇
