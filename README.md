@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 Learning to develop robust Android Applications
 - 👯 Looking to collaborate on building useful Android Apps
 - 💬 Ask me about Android, Java, Kotlin, Python, Blockchain and Bitcoin Protocol.
-- 📫 How to reach me: Contact me using LinkedIn and My Blog
+- 📫 How to reach me: My socials mentioned below 👇
 
 ### My Online Presence 👇
 
