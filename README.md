@@ -44,10 +44,7 @@ Here are some ideas to get you started:
   
 <a href="mailto:srivathsanvenkateswaran@gmail.com">
   <img align="center" alt="srivathsanvenkateswaran | Gmail" width="32px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  
-  
-<a href="https://in.pinterest.com/srivathsanvenkateswaran/_created/" target="blank">
-<img align="center" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/>
+ 
   
 </a>  
 </p> -->
@@ -69,8 +66,14 @@ Here are some ideas to get you started:
 <img align="center" alt="srivathsanvenkateswaran | Blog" width="30px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
 </a> &nbsp;&nbsp;
 <a href="https://opensea.io/srivathsanvenkateswaran">
-<img align="center" alt="srivathsanvenkateswaran | Blog" width="30px" src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png" />
-</a> 
+<img align="center" alt="srivathsanvenkateswaran | OpenSea" width="30px" src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png" />
+</a> &nbsp;&nbsp;
+<a href="https://in.pinterest.com/srivathsanvenkateswaran/">
+<img align="center" alt="srivathsanvenkateswaran | Pinterest" width="30px" src="https://i.pinimg.com/564x/d3/d1/75/d3d175e560ae133f1ed5cd4ec173751a.jpg" />
+</a>&nbsp;&nbsp;
+<a href="https://leetcode.com/Srivathsan_Venkateswaran/">
+<img align="center" alt="srivathsanvenkateswaran | Leetcode" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/leetcode.png" />
+</a>
 <p>
 
 ### 📈 Github Stats
