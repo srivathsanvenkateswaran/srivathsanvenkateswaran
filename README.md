@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 #  Hi there! 👋 This is Srivathsan 👨‍💻
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&lines=%E2%9C%93+Android+developer;%E2%9C%93+Blockchain+Enthusiast;%E2%9C%93+Python+Developer;%E2%9C%93+Blogger;%E2%9C%93+Cryptocurrency+Maximalist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&lines=%E2%9C%93+Android+developer;%E2%9C%93+Blockchain+Enthusiast;%E2%9C%93+Python+Developer;%E2%9C%93+Blogger;%E2%9C%93+Cryptocurrency+Maximalist;%E2%9C%93+Photo+Editing+and+Graphics+Designer)](https://git.io/typing-svg)
 
 <p>
 <a href="https://srivathsan.hashnode.dev/">
